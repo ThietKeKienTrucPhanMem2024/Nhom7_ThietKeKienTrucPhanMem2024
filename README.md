@@ -1,5 +1,7 @@
 # Architecture diagram
 
+![alt text](/images/Picture1.jpg)
+
 Thành phần:
 
 - API Gateway: là điểm truy cập duy nhất cho các ứng dụng bên ngoài. Nó chịu trách nhiệm định tuyến các yêu cầu đến các services thích hợp, xử lý xác thực và ủy quyền và quản lý lưu lượng truy cập.
